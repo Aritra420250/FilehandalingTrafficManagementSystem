@@ -1,0 +1,28 @@
+[2025-05-28T20:16:26.130871600] North signal changed to GREEN for 10s
+[2025-05-28T20:16:31.129627700] South signal changed to GREEN for 5s
+[2025-05-28T20:16:36.120748500] East signal changed to GREEN for 15s
+[2025-05-28T20:16:36.131606] South signal changed to RED
+[2025-05-28T20:16:36.135541500] North signal changed to RED
+[2025-05-28T20:16:41.119582] West signal changed to GREEN for 7s
+[2025-05-28T20:16:46.121347400] North signal changed to GREEN for 10s
+[2025-05-28T20:16:48.119967200] West signal changed to RED
+[2025-05-28T20:16:51.120777] South signal changed to GREEN for 5s
+[2025-05-28T20:16:51.125508400] East signal changed to RED
+[2025-05-28T20:16:56.120981] East signal changed to GREEN for 15s
+[2025-05-28T20:16:56.120981] South signal changed to RED
+[2025-05-28T20:16:56.173227200] North signal changed to RED
+[2025-05-28T20:18:00.269380100] North signal changed to GREEN for 10s
+[2025-05-28T20:18:05.256882600] South signal changed to GREEN for 5s
+[2025-05-28T20:18:10.255950600] East signal changed to GREEN for 15s
+[2025-05-28T20:18:10.260616500] South signal changed to RED
+[2025-05-28T20:18:10.273426400] North signal changed to RED
+[2025-05-28T20:18:15.255114900] West signal changed to GREEN for 7s
+[2025-05-28T20:18:20.254282800] North signal changed to GREEN for 10s
+[2025-05-28T20:18:22.256737200] West signal changed to RED
+[2025-05-28T20:18:25.254491400] South signal changed to GREEN for 5s
+[2025-05-28T20:18:25.259861500] East signal changed to RED
+[2025-05-28T20:18:30.255056600] East signal changed to GREEN for 15s
+[2025-05-28T20:18:30.258058100] South signal changed to RED
+[2025-05-28T20:18:30.259058400] North signal changed to RED
+[2025-05-28T20:18:35.254223700] West signal changed to GREEN for 7s
+[2025-05-28T20:18:42.257811700] West signal changed to RED
